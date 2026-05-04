@@ -1,6 +1,8 @@
 !["The Evolution of Trust"](https://i.imgur.com/kde760y.png)
 
-#	PLAY IT HERE: [http://ncase.me/trust/](http://ncase.me/trust/)
+#   Кыргыз тилинде ойноо: [https://lainde589.github.io/trust/](https://lainde589.github.io/trust/)
+
+#	Original English version: [http://ncase.me/trust/](http://ncase.me/trust/)
 
 *The Evolution of Trust* is dedicated to the public domain, and is made thanks to the many Creative Commons & open source resources out there! Here is a full list of music, sounds, and code used:
 
@@ -29,7 +31,7 @@
 * [MinPubSub](https://github.com/daniellmb/MinPubSub) for publish/subscribe
 * [Pegasus](https://github.com/typicode/pegasus) for me being too lazy to write my own XHR
 
-**Font:** [Futura Handwritten](http://www.dafont.com/futurahandwritten.font) by Bill Snyder
+**Font:** [Pangolin](https://fonts.google.com/specimen/Pangolin) by Kevin Burke
 
 #	How-To: Translate this thang!
 
